@@ -1,0 +1,96 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+monto
+3
+0.0
+3
+iva
+3
+0.0
+9
+monto_iva
+3
+0.0
+6
+2
+8
+tota_iva
+3
+0.0
+16
+tota_monto_c_iva
+3
+0.0
+4
+1
+67
+'Bienvenido, este programa te ayuda a obtener un reporte de ventas'
+4
+1
+30
+'Ingrese el monto de la venta'
+5
+1
+5
+monto
+9
+1
+7
+monto>0
+4
+1
+39
+'El monto total de la venta es ', monto
+6
+2
+3
+iva
+10
+monto*0.16
+8
+tota_iva
+12
+tota_iva+iva
+4
+1
+49
+'El iva de acuerdo al monto de la venta es ' ,iva
+6
+2
+9
+monto_iva
+9
+iva+monto
+16
+tota_monto_c_iva
+26
+tota_monto_c_iva+monto_iva
+4
+1
+44
+'Por favor, ingrese nuevos montos de ventas'
+5
+1
+5
+monto
+11
+4
+1
+53
+'El total de las ventas con iva es ',tota_monto_c_iva
+4
+1
+44
+'El total de iva de las ventas es ',tota_iva
+4
+1
+44
+'Hasta luego y gracias por usar Leo Lab tec'
+1
